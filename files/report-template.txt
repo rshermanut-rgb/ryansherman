@@ -1,0 +1,25 @@
+REPORT TEMPLATE — EXAMPLE ONLY
+
+Title: [Report title]
+Author: [Author name]
+Date: [Date]
+
+Summary
+[Describe the question and the main findings.]
+
+Background
+[Explain the context and intended audience.]
+
+Data and methods
+[Describe sources, methods, assumptions, and limitations.]
+
+Findings
+[Describe your findings, supported by evidence.]
+
+Conclusions
+[Explain the implications and possible next steps.]
+
+References
+[List the sources.]
+
+Replace this example with an actual PDF and update its link in content.js.
