@@ -3391,20 +3391,15 @@ window.PORTFOLIO = {
               "points": []
             },
             "photo": {
-              "id": "projects",
-              "number": "03",
-              "title": "Projects",
-              "href": "projects.html",
-              "image": "assets/photos/arctic-fieldwork-1400.jpg",
-              "imageSmall": "assets/photos/arctic-fieldwork-640.jpg",
-              "alt": "A person using binoculars beside Arctic tundra pools beneath a low sun",
-              "position": "50% 50%",
-              "fit": "cover",
-              "imageWidth": 1115,
-              "imageHeight": 836,
-              "intro": "Explore cultural projects, field research, writing, speeches, conferences, and grant proposals.",
+              "image": "assets/photos/work/logistics-expeditor-coast.jpg",
+              "imageSmall": "assets/photos/work/logistics-expeditor-coast-640.jpg",
+              "imageWidth": 727,
+              "imageHeight": 664,
               "imageSmallWidth": 640,
-              "caption": "Earlier Arctic fieldwork"
+              "alt": "Snow-covered branches overlooking the coast beneath a winter sky",
+              "fit": "contain",
+              "position": "50% 50%",
+              "caption": "Winter landscape"
             }
           },
           {
@@ -3762,20 +3757,15 @@ window.PORTFOLIO = {
               ]
             },
             "photo": {
-              "id": "projects",
-              "number": "03",
-              "title": "Projects",
-              "href": "projects.html",
-              "image": "assets/photos/arctic-fieldwork-1400.jpg",
-              "imageSmall": "assets/photos/arctic-fieldwork-640.jpg",
-              "alt": "A person using binoculars beside Arctic tundra pools beneath a low sun",
+              "image": "assets/photos/work/outstanding-performance-field.jpg",
+              "imageSmall": "assets/photos/work/outstanding-performance-field-640.jpg",
+              "imageWidth": 445,
+              "imageHeight": 318,
+              "imageSmallWidth": 445,
+              "alt": "A small boat offshore beyond waves under a cloudy sky",
+              "fit": "contain",
               "position": "50% 50%",
-              "fit": "cover",
-              "imageWidth": 1115,
-              "imageHeight": 836,
-              "intro": "Explore cultural projects, field research, writing, speeches, conferences, and grant proposals.",
-              "imageSmallWidth": 640,
-              "caption": "Earlier Arctic fieldwork"
+              "caption": "Out in the field"
             }
           }
         ]
@@ -3933,15 +3923,15 @@ window.PORTFOLIO = {
               ]
             },
             "photo": {
-              "image": "assets/photos/work/chin-fieldwork-walk-1600.jpg",
-              "imageSmall": "assets/photos/work/chin-fieldwork-walk-640.jpg",
-              "imageWidth": 1600,
-              "imageHeight": 1200,
+              "image": "assets/photos/work/research-programme-development.jpg",
+              "imageSmall": "assets/photos/work/research-programme-development-640.jpg",
+              "imageWidth": 726,
+              "imageHeight": 411,
               "imageSmallWidth": 640,
-              "alt": "Three people walking beside a flooded field against misty mountain ridges",
+              "alt": "Ryan with another person outdoors near buses and trucks",
               "fit": "contain",
               "position": "50% 50%",
-              "caption": "Research in Chin State"
+              "caption": "Research and programme development"
             }
           },
           {
